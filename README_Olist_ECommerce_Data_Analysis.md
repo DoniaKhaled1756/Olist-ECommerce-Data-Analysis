@@ -260,7 +260,7 @@ The **full Excel dashboard workbook** is approximately 49 MB because it contains
 
 ### 📊 Full Excel Dashboard
 
-**[Open / Download the Final Excel Dashboard](https://docs.google.com/spreadsheets/d/1IuPD3hLA-p1vFZu33DpVQ9hmTHP0yFFG/edit?usp=drive_link&ouid=104410045564920862253&rtpof=true&sd=true)**
+**[Open / Download the Final Excel Dashboard](PASTE_YOUR_EXCEL_FILE_LINK_HERE)**
 
 > Replace the link above with the Google Drive / OneDrive / other sharing link for the final Excel workbook.
 
